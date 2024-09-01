@@ -44,3 +44,7 @@ class Calculation:
 
 
 Calculation.main(is_display_every=True, calcMode="COMPOUND")
+
+
+def hello():
+    print("Yes Yes Yes")
